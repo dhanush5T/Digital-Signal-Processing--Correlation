@@ -63,8 +63,6 @@ title(' Discrete cross correlated waveform')
 
 
 ## RESULT:
-![WhatsApp Image 2025-11-28 at 20 36 01_22793d63](https://github.com/user-attachments/assets/93a0b2a3-0fa2-4b8f-a51a-a0db3af4c038)
+![WhatsApp Image 2025-11-28 at 20 36 01_22793d63](https://github.com/user-attachments/assets/775c977b-db26-401e-ba0e-a73f8e5d28b7)
 
-
-![2](https://github.com/user-attachments/assets/6581b1ff-38b5-4c9d-be0b-0bc5bbcc8985)
 
